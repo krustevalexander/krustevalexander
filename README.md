@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**krustevalexander/krustevalexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with 17 years of experience, and I’ve spent my career building custom software solutions that help small and medium-sized businesses thrive. I run my own development company, where we craft tech tailored to real-world needs.
 
-Here are some ideas to get you started:
+## What’s on My Radar
+- Exploring **AI agents** and **Web3 projects**
+- New to open-source and excited to contribute
+- Into vibe coding ⛱️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let’s Build Something Cool Together
+- Got a wild AI or Web3 idea? Hit me up!
+- Want to team up on an open-source project? I’m in the game!
+- Catch me on [Twitter/X](https://x.com/Krustev_A) and say hi.
+
+Excited to vibe with the community and ship some cool stuff. Thanks for swinging by! 🚀
